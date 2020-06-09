@@ -1,5 +1,5 @@
 # TwitterSentimentAnalysis
-Analyze sentiments of users on twitter around #Demonetization during November 2016 in India.
+Analyze sentiments of users on twitter around #Demonetization during November 2016 in India.<br>
 Adwait Rangnekar<br>
 Github : https://github.com/adwaitr<br>
 Linkedin : https://www.linkedin.com/in/adwait-rangnekar/<br>
